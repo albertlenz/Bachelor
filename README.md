@@ -2,7 +2,7 @@
 
 Dette projekt blev udført som kulmination af min bacheloruddannelse i 2023 og fokuserer på dansk finanspolitik i lyset af udbudsstød. 
 
-Jeg modificerer BabyMAKRO modellen (af Jeppe Druedahl) og simulerer forskellige stød og interventioner med formålet at analysere, hvordan udbudsstød påvirker den danske økonomi, og hvordan finanspolitikken kan tilpasses for at imødegå disse påvirkninger.
+Jeg modificerer BabyMAKRO modellen (af Jeppe Druedahl) og simulerer forskellige stød og interventioner med formålet at analysere, hvordan udbudsstød påvirker den danske økonomi, og hvordan finanspolitikken kan (og ikke kan) tilpasses for at imødegå disse påvirkninger.
 
 ---
 
